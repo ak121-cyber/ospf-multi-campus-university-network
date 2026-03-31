@@ -17,6 +17,8 @@ The network consists of a **Central Campus connected to North and South campuses
 
 The following topology represents the simulated university campus network.
 
+![Network Topology](screenshots/topology.png)
+
 ---
 
 # Devices Used
@@ -69,6 +71,8 @@ show vlan brief
 
 Screenshot:
 
+![VLAN Configuration](screenshots/vlan-config.png)
+
 ---
 
 # Trunk Configuration
@@ -82,6 +86,8 @@ show interfaces trunk
 ```
 
 Screenshot:
+
+![Trunk Link](screenshots/trunk-link.png)
 
 ---
 
@@ -110,6 +116,8 @@ FULL
 
 Screenshot:
 
+![OSPF Neighbours](screenshots/ospf-neighbours.png)
+
 ---
 
 # Routing Table Verification
@@ -123,6 +131,8 @@ show ip route
 ```
 
 Screenshot:
+
+![Routing Table](screenshots/routing-table.png)
 
 ---
 
@@ -146,6 +156,8 @@ Desktop → IP Configuration → DHCP
 
 Screenshot:
 
+![DHCP Working](screenshots/dhcp-working.png)
+
 ---
 
 # DNS Configuration
@@ -166,6 +178,8 @@ university.local → 192.168.30.20
 
 Screenshot:
 
+![DNS Record](screenshots/dns-record.png)
+
 ---
 
 # Web Server
@@ -179,6 +193,8 @@ http://university.local
 ```
 
 Screenshot:
+
+![Web Access](screenshots/web-access.png)
 
 ---
 
